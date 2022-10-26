@@ -14,9 +14,9 @@ Below are the tasks done:
 
 
 ## Installation
-The project was uploaded to GitHub at the following repository: https://github.com/jorguzman100/01_Code_Refactor_JGR
+The URL of the deployed application is: 
 
-You can access the deployed application with the GitHup Pages link: https://jorguzman100.github.io/01_Code_Refactor_JGR/
+You URL of the GitHub repository containing the code is:  
 
 ## Usage
 Whenever a user wants to search for Horiseon website or marketing-related topics, the website is easily found in the search engines. 
