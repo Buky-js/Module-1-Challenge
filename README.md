@@ -1,39 +1,31 @@
 # Module-1-Challenge
 
 ## Description
-The challenge was to refactor the codebase of Horiseon Social Solution Services, ensuring that it follows accessibility standards and its well optimised for search engines by doing the following:
-* Using semantic HTML elements
-* adding alt attributes to the img elements
-* giving the webpage a desciptive title
+This website is a refactored codebase of Horiseon Social Solution Services to ensure that it follows accessibility standards and its well optimised for search engines.
 
+![alt text](assets/images/horiseon.png)
 
+Below are the tasks done:
+* Replaced the div elements with semantic HTML elements
+* added alt attributes to the icons and image elements
+* gave the webpage a desciptive title
+* ensured the nav links are working
+* included relevant comments in the css file
 
-## User Story
-*AS A marketing agency
-*I WANT a codebase that follows accessibility standards
-*SO THAT our own site is optimized for search engines
-
-## Acceptance Criteria
-*GIVEN a webpage meets accessibility standards
-*WHEN I view the source code
-*THEN I find semantic HTML elements
-*WHEN I view the structure of the HTML elements
-*THEN I find that the elements follow a logical structure independent of styling and positioning
-*WHEN I view the image elements
-*THEN I find accessible alt attributes
-*WHEN I view the heading attributes
-*THEN they fall in sequential order
-*WHEN I view the title element
-*THEN I find a concise, descriptive title
-
-## The Process
-I followed these steps below to complete the challenge:
-* Cloned the starter code provided in the Gitlab
-* Refactored the HTML and CSS codes to meet the acceptance criteria
-* Commited changes to git and pushed them to remote repository on github
-* Deployed live application 
 
 ## Installation
+The project was uploaded to GitHub at the following repository: https://github.com/jorguzman100/01_Code_Refactor_JGR
+
+You can access the deployed application with the GitHup Pages link: https://jorguzman100.github.io/01_Code_Refactor_JGR/
+
+## Usage
+Whenever a user wants to search for Horiseon website or marketing-related topics, the website is easily found in the search engines. 
+
+## Credits
+N/A
+
+## License 
+Please refer to MIT license used in the repo
 
 
 
