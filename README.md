@@ -14,9 +14,9 @@ Below are the tasks done:
 
 
 ## Installation
-The URL of the deployed application is: 
+The URL of the deployed application is:  https://buky-js.github.io/Module-1-Challenge/
 
-You URL of the GitHub repository containing the code is:  
+You URL of the GitHub repository containing the code is:  https://github.com/Buky-js/Module-1-Challenge
 
 ## Usage
 Whenever a user wants to search for Horiseon website or marketing-related topics, the website is easily found in the search engines. 
