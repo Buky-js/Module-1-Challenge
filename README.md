@@ -1,4 +1,4 @@
-# Module-1-Challenge
+# Refactored codebase of Horiseon Social Solution Services
 
 ## Description
 This website is a refactored codebase of Horiseon Social Solution Services to ensure that it follows accessibility standards and its well optimised for search engines.
